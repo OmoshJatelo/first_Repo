@@ -1,0 +1,192 @@
+Repository Report
+====================
+
+Commits:
+Commit Message: Update question3-solution. (made some during program correctness testing)
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-25T06:07:36Z
+====================
+Commit Message: Update main.c. verified the program correctness
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-25T05:38:14Z
+====================
+Commit Message: Update question3-solution.c
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-24T12:44:13Z
+====================
+Commit Message: Merge pull request #18 from ElpisM/main
+
+question3 code upto do while section
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-24T08:55:20Z
+====================
+Commit Message: Update question3-solution.c (erased the content)
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-24T08:53:33Z
+====================
+Commit Message: removed two last curly brackets
+Author: ElpisM (elpis8076@gmail.com)
+Date: 2024-11-24T08:37:26Z
+====================
+Commit Message: Merge branch 'main' of https://github.com/ElpisM/C-programing-assignments
+Author: ElpisM (elpis8076@gmail.com)
+Date: 2024-11-24T08:24:39Z
+====================
+Commit Message: question 3 upto the do while section
+Author: ElpisM (elpis8076@gmail.com)
+Date: 2024-11-24T08:24:28Z
+====================
+Commit Message: Merge pull request #16 from Lagat27/question-2-solution
+
+solution for question 2 by lagat
+Author: Lagat27 (lagatstephen27@gmail.com)
+Date: 2024-11-23T19:29:20Z
+====================
+Commit Message: question-2
+
+final solution for question 2
+Author: Thygenius (lagatstephen27@gmail.com)
+Date: 2024-11-23T19:22:18Z
+====================
+Commit Message: Merge branch 'OmoshJatelo:main' into main
+Author: ElpisM (elpis8076@gmail.com)
+Date: 2024-11-23T17:26:35Z
+====================
+Commit Message: this is the do while loop for question 3
+Author: ElpisM (elpis8076@gmail.com)
+Date: 2024-11-23T17:22:07Z
+====================
+Commit Message: Merge pull request #15 from SasakaRoben/newquestion2
+
+Question2 by Roben
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-23T14:57:42Z
+====================
+Commit Message: Question2 by Roben
+
+Updated question2
+Author: SasakaRoben (sasakarobenld@gmail.com)
+Date: 2024-11-23T13:33:24Z
+====================
+Commit Message: deleted all the vacuous and empty files
+Author: OmoshJatelo (calvinceomondi913@gmail.com)
+Date: 2024-11-15T16:59:30Z
+====================
+Commit Message: Merge pull request #11 from SasakaRoben/Question2
+
+Question2 by Roben
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-15T16:39:29Z
+====================
+Commit Message: Update question2ByRoben.cbp to remove the contents of the unwanted files
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-15T16:39:01Z
+====================
+Commit Message: Update grading.cbp to exclude the contents of the wrong file that accompanied the  correct one
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-15T16:37:22Z
+====================
+Commit Message: Merge pull request #9 from Seline254/section-1
+
+Variable declaration for question 2 -Seline
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-15T16:29:04Z
+====================
+Commit Message: excluded the contents of another wrong file that accompanied this commit
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-15T16:13:26Z
+====================
+Commit Message: excluded the wring file that accompanied this commit
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-15T16:11:42Z
+====================
+Commit Message: Merge pull request #13 from OmoshJatelo/question4finalization
+
+second commit qn 4.
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-15T14:16:59Z
+====================
+Commit Message: second commit qn 4.
+
+Added the block of code for the condition; if dependants number is greater or equal to 3.
+Author: Kenneth (jatani1@duck.com)
+Date: 2024-11-13T12:01:13Z
+====================
+Commit Message: Update question3-solution.c
+Author: digeshiotero (otanaadongo@gmail.com)
+Date: 2024-11-10T21:17:36Z
+====================
+Commit Message: Updated question3-solution.c
+Author: digeshiotero (otanaadongo@gmail.com)
+Date: 2024-11-10T21:13:07Z
+====================
+Commit Message: Question2 by Roben
+
+Added the do
+Author: SasakaRoben (sasakarobenld@gmail.com)
+Date: 2024-11-10T19:25:27Z
+====================
+Commit Message: Initialized Variables for question 2
+Author: SelineOwino (selineowino36@gmail.com)
+Date: 2024-11-10T10:34:43Z
+====================
+Commit Message: Added the ultimate solution for question 1
+Author: OmoshJatelo (calvinceomondi913@gmail.com)
+Date: 2024-11-08T19:44:32Z
+====================
+Commit Message: deleted this wrong file
+Author: OmoshJatelo (calvinceomondi913@gmail.com)
+Date: 2024-11-08T19:15:11Z
+====================
+Commit Message: Merge pull request #10 from SheilaSusan/question1-solution
+
+Updated scoring conditions
+Author: Okoth Calvince Omondi (calvinceomondi913@gmail.com)
+Date: 2024-11-08T18:24:57Z
+====================
+
+Contributors:
+Username: OmoshJatelo
+Contributions: 50
+Profile: https://github.com/OmoshJatelo
+====================
+Username: ElpisM
+Contributions: 7
+Profile: https://github.com/ElpisM
+====================
+Username: SasakaRoben
+Contributions: 5
+Profile: https://github.com/SasakaRoben
+====================
+Username: SheilaSusan
+Contributions: 5
+Profile: https://github.com/SheilaSusan
+====================
+Username: Seline254
+Contributions: 3
+Profile: https://github.com/Seline254
+====================
+Username: ianmugi048
+Contributions: 2
+Profile: https://github.com/ianmugi048
+====================
+Username: digeshiotero
+Contributions: 2
+Profile: https://github.com/digeshiotero
+====================
+Username: Lagat27
+Contributions: 2
+Profile: https://github.com/Lagat27
+====================
+Username: Kenneth-1-bit
+Contributions: 1
+Profile: https://github.com/Kenneth-1-bit
+====================
+Username: Royaltie-byte
+Contributions: 1
+Profile: https://github.com/Royaltie-byte
+====================
+Username: Shayanony
+Contributions: 1
+Profile: https://github.com/Shayanony
+====================
